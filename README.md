@@ -1,5 +1,7 @@
 # Docker scss-lint
 
+[![](https://images.microbadger.com/badges/image/rvip/scss-lint.svg)](https://microbadger.com/images/rvip/scss-lint "Scss-lint")
+ 
 ## What is scss-lint
 
 `scss-lint` is a tool to help keep your [SCSS](http://sass-lang.com) files
